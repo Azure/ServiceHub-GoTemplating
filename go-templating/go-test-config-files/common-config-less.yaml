@@ -1,0 +1,9 @@
+######################################################################
+######################################################################
+# User inputs.
+######################################################################
+######################################################################
+sharedInput:
+  # # The following are variables used when generating resources and pipeline modules.
+  # A directory on your computer where the shared resources and pipeline folders will be stored.
+  destinationDirPrefix: ../testing/generated-output
